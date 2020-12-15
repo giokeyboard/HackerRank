@@ -1,9 +1,17 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Solution {
+    private static final Scanner scan = new Scanner(System.in);
+
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(breakingRecords(new int[]{10, 5, 20, 20, 4, 5, 2, 25, 1})));
-        System.out.println(Arrays.toString(breakingRecords(new int[]{3, 4, 21, 36, 10, 28, 35, 5, 24, 42})));
+        int n = scan.nextInt();
+        int[] scores = new int[n];
+        for (int i = 0; i < scores.length; i++) {
+            scores[i] = scan.nextInt();
+        }
+        scan.close();
+        Arrays.stream(breakingRecords(scores)).forEach(x -> System.out.print(x + " "));
     }
 
     static int[] breakingRecords(int[] scores) {
