@@ -1,7 +1,16 @@
+import java.util.Scanner;
+
 public class Solution {
+    private static final Scanner scan = new Scanner(System.in);
+
     public static void main(String[] args) {
-        System.out.println(kangaroo(0, 2, 5, 3));
-        System.out.println(kangaroo(0, 3, 4, 2));
+        int x1 = scan.nextInt();
+        int v1 = scan.nextInt();
+        int x2 = scan.nextInt();
+        int v2 = scan.nextInt();
+        scan.close();
+
+        System.out.println(kangaroo(x1, v1, x2, v2));
     }
 
     static String kangaroo(int x1, int v1, int x2, int v2) {
