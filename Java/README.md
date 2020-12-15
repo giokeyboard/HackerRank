@@ -1,6 +1,7 @@
 ## Java language proficiency
 ### Subdomains
-* [Introdution](Java/Introduction/)
-* [Strings](Java/Strings/)
-* [Object Oriented Programming](Java/OOP/)
-* [Data Structures](Java/DataStructures/)
+* [Introdution](Introduction)
+* [Strings](Strings)
+* [BigNumber](BigNumber)
+* [Object Oriented Programming](OOP)
+* [Data Structures](DataStructures)
