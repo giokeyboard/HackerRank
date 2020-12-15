@@ -1,18 +1,22 @@
+import java.util.Scanner;
+
 public class Solution {
+    private static final Scanner scan = new Scanner(System.in);
+
     public static void main(String[] args) {
-        System.out.println(divisibleSumPairs(6, 3, new int[]{1, 3, 2, 6, 1, 2}));
+        int n = scan.nextInt();
+        int k = scan.nextInt();
+        int[] ar = new int[n];
+        for (int i = 0; i < ar.length; i++) {
+            ar[i] = scan.nextInt();
+        }
+        scan.close();
+
+        System.out.println(divisibleSumPairs(n, k, ar));
     }
 
     static int divisibleSumPairs(int n, int k, int[] ar) {
-        // O(n^2) solution
-//        int count = 0;
-//        for (int i = 0; i < ar.length; i++) {
-//            for (int j = i + 1; j < ar.length; j++) {
-//                if ((ar[i] + ar[j]) % k == 0) count++;
-//            }
-//        }
-//        return count;
-
+        // O(n) solution
         int[] bucket = new int[k];
         int count = 0;
         for (int num : ar) {
@@ -21,5 +25,16 @@ public class Solution {
             bucket[mod]++;
         }
         return count;
+
+        /*
+        O(n^2) solution
+        int count = 0;
+        for (int i = 0; i < ar.length; i++) {
+            for (int j = i + 1; j < ar.length; j++) {
+                if ((ar[i] + ar[j]) % k == 0) count++;
+            }
+        }
+        return count;
+        */
     }
 }
