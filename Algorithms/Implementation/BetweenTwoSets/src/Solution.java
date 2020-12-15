@@ -1,14 +1,9 @@
 import java.util.Arrays;
 import java.util.List;
+import java.util.Scanner;
+import java.util.stream.Collectors;
 
-public class Solution {
-    public static void main(String[] args) {
-        System.out.println(getTotalX(Arrays.asList(3, 4), Arrays.asList(24, 48)));
-        System.out.println(getTotalX(Arrays.asList(2, 4), Arrays.asList(16, 32, 96)));
-        System.out.println(getTotalX(Arrays.asList(2), Arrays.asList(20, 30, 12)));
-        System.out.println(getTotalX(Arrays.asList(3, 9, 6), Arrays.asList(36, 72)));
-    }
-
+class Result {
     public static int getTotalX(List<Integer> a, List<Integer> b) {
         int lcm = LCM(a);
         int gcd = GCD(b);
@@ -47,5 +42,25 @@ public class Solution {
     static int GCD(int a, int b) {
         if (b == 0) return a;
         return GCD(b, a % b);
+    }
+}
+
+public class Solution {
+    private static final Scanner scan = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int n = scan.nextInt();
+        int m = scan.nextInt();
+        scan.nextLine();
+
+        List<Integer> arr = Arrays.stream(scan.nextLine().split(" "))
+                .map(Integer::parseInt)
+                .collect(Collectors.toList());
+        List<Integer> brr = Arrays.stream(scan.nextLine().split(" "))
+                .map(Integer::parseInt)
+                .collect(Collectors.toList());
+        scan.close();
+
+        System.out.println(Result.getTotalX(arr, brr));
     }
 }
