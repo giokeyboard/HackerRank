@@ -19,5 +19,6 @@ public class Solution {
             System.out.println(bitSets[0].cardinality() + " " + bitSets[1].cardinality());
             i--;
         }
+        scan.close();
     }
 }

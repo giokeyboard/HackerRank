@@ -16,6 +16,7 @@ public class Solution {
                 .thenComparing(Student::getFname).thenComparingInt(Student::getId));
 
         students.forEach(student -> System.out.println(student.getFname()));
+        scan.close();
     }
 }
 
