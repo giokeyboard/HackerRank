@@ -1,5 +1,6 @@
-# <a href="https://www.hackerrank.com/giokeyboard">HackerRank solutions</a>
-*Divided thematically, solved exercises from [hackerrank.com](https://www.hackerrank.com/)*
+# HackerRank solutions
+*Divided thematically, solved exercises from my profile at [hackerrank.com](https://www.hackerrank.com/giokeyboard)*
+
 
 ## Table of Contents
 * [Algorithms](/Algorithms)
