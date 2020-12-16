@@ -29,8 +29,32 @@
 | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker)| 20 |[link](Strings/UsernameRegularExpression/src/Solution.java) |
 
 ### [BigNumber](BigNumber)
+| Challenge | Max Score | My Solution |
+|---|:---:|:---:|
+| [Big Integer](https://www.hackerrank.com/challenges/java-biginteger)| 10 |[link](BigNumber/BigInteger/src/Solution.java) |
+| [Primality Test](https://www.hackerrank.com/challenges/java-primality-test)| 20 |[link](BigNumber/PrimalityTest/src/Solution.java) |
 
 ### [Object Oriented Programming](OOP)
+| Challenge | Max Score | My Solution |
+|---|:---:|:---:|
+| [InheritanceI](https://www.hackerrank.com/challenges/java-inheritance-1)| 5 |[link](OOP/InheritanceI/src/Solution.java) |
+| [InheritanceII](https://www.hackerrank.com/challenges/java-inheritance-2)| 10 |[link](OOP/InheritanceII/src/Solution.java) |
 
 ### [Data Structures](DataStructures)
+| Challenge | Max Score | My Solution |
+|---|:---:|:---:|
+| [1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)| 5 |[link](DataStructures/1DArray/src/Solution.java) |
+| [2D Array](https://www.hackerrank.com/challenges/java-2d-array)| 10 |[link](DataStructures/2DArray/src/Solution.java) |
+| [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)| 10 |[link](DataStructures/Subarray/src/Solution.java) |
+| [ArrayList](https://www.hackerrank.com/challenges/java-arraylist)| 10 |[link](DataStructures/Arraylist/src/Solution.java) |
+| [List](https://www.hackerrank.com/challenges/java-list)| 15 |[link](DataStructures/List/src/Solution.java) |
+| [Map](https://www.hackerrank.com/challenges/phone-book)| 10 |[link](DataStructures/Map/src/Solution.java) |
+| [HashSet](https://www.hackerrank.com/challenges/java-hashset)| 10 |[link](DataStructures/Hashset/src/Solution.java) |
+| [Generics](https://www.hackerrank.com/challenges/java-generics)| 15 |[link](DataStructures/Generics/src/Solution.java) |
+| [Sort](https://www.hackerrank.com/challenges/java-sort)| 10 |[link](DataStructures/Sort/src/Solution.java) |
+| [BitSet](https://www.hackerrank.com/challenges/java-bitset)| 20 |[link](DataStructures/BitSet/src/Solution.java) |
+
+### [Exception Handling]()
+
+### [Advanced]()
 
