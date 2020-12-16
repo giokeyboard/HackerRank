@@ -1,5 +1,5 @@
-## 30 Days of Code challenge
-### Index of solved exercises
+# 30 Days of Code challenge
+## List of Exercises
 | Day | Challenge | Max Score | My solution |
 |:---:|:---|:---:|:---:|
 | 00 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world) | 30 | [link](Day00-HelloWorld/src/Solution.java) |
