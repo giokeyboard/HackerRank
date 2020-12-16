@@ -29,3 +29,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Implementation | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit)| 10 |[link](Implementation/BillDivision/src/Solution.java) |
 | Implementation | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant)| 10 |[link](Implementation/SalesByMatch/src/Solution.java) |
 | Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| 10 |[link](Implementation/DrawingBook/src/Solution.java) |
+| Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| 15 |[link](Implementation/CountingValleys/src/Solution.java) |
+| Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| 15 |[link](Implementation/ElectronicsShop/src/Solution.java) |
