@@ -35,6 +35,8 @@
 | BigNumber | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test)| 20 |[link](BigNumber/PrimalityTest/src/Solution.java) |
 | Object Oriented Programming | [InheritanceI](https://www.hackerrank.com/challenges/java-inheritance-1)| 5 |[link](OOP/InheritanceI/src/Solution.java) |
 | Object Oriented Programming | [InheritanceII](https://www.hackerrank.com/challenges/java-inheritance-2)| 10 |[link](OOP/InheritanceII/src/Solution.java) |
+| Object Oriented Programming | [Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)| 10 |[link](OOP/AbstractClass/src/Main.java) |
+| Object Oriented Programming | [Interface](https://www.hackerrank.com/challenges/java-interface)| 10 |[link](OOP/Interface/src/Solution.java) |
 | Data Structures | [1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)| 5 |[link](DataStructures/1DArray/src/Solution.java) |
 | Data Structures | [2D Array](https://www.hackerrank.com/challenges/java-2d-array)| 10 |[link](DataStructures/2DArray/src/Solution.java) |
 | Data Structures | [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)| 10 |[link](DataStructures/Subarray/src/Solution.java) |
