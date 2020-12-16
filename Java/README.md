@@ -1,7 +1,7 @@
 # Java language proficiency
 ## Subdomains
 ### [Introdution](Introduction)
-| Challenge | Max Score | Solution |
+| Challenge | Max Score | My Solution |
 |---|:---:|:---:|
 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)| 3 |[link](Introduction/WelcomeToJava/src/Solution.java) |
 | [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | 5 | [link](Introduction/StdinAndStdoutI/src/Solution.java) |
