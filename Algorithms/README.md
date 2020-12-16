@@ -1,4 +1,5 @@
 # Problem Solving with Algorithms
+All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/technologies/javase-jdk11-downloads.html) - except stated otherwise.
 ## List of Subdomains
 - [Warmup](Warmup)
 - [Implementation](Implementation)
