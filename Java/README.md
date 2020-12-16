@@ -18,6 +18,15 @@
 | [Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter) | 15 | [link](Introduction/CurrencyFormatter/src/Solution.java) |
 
 ### [Strings](Strings)
+| Challenge | Max Score | My Solution |
+|---|:---:|:---:|
+| [Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)| 5 |[link](Strings/StringsIntroduction/src/Solution.java) |
+| [Substring](https://www.hackerrank.com/challenges/java-substring)| 5 |[link](Strings/Substring/src/Solution.java) |
+| [Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)| 10 |[link](Strings/SubstringComparisons/src/Solution.java) |
+| [String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)| 10 |[link](Strings/StringReverse/src/Solution.java) |
+| [Anagrams](https://www.hackerrank.com/challenges/java-anagrams)| 10 |[link](Strings/Anagrams/src/Solution.java) |
+| [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)| 15 |[link](Strings/StringTokens/src/Solution.java) |
+| [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker)| 20 |[link](Strings/UsernameRegularExpression/src/Solution.java) |
 
 ### [BigNumber](BigNumber)
 
