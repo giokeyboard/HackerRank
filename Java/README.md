@@ -38,6 +38,8 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Object Oriented Programming | [InheritanceII](https://www.hackerrank.com/challenges/java-inheritance-2)| 10 |[Java](OOP/InheritanceII/src/Solution.java) |
 | Object Oriented Programming | [Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)| 10 |[Java](OOP/AbstractClass/src/Main.java) |
 | Object Oriented Programming | [Interface](https://www.hackerrank.com/challenges/java-interface)| 10 |[Java](OOP/Interface/src/Solution.java) |
+| Object Oriented Programming | [Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding)| 10 |[Java](OOP/MethodOverriding/src/Solution.java) |
+| Object Oriented Programming | [Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword)| 10 |[Java](OOP/MethodOverriding2/src/Solution.java) |
 | Data Structures | [1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)| 5 |[Java](DataStructures/1DArray/src/Solution.java) |
 | Data Structures | [2D Array](https://www.hackerrank.com/challenges/java-2d-array)| 10 |[Java](DataStructures/2DArray/src/Solution.java) |
 | Data Structures | [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)| 10 |[Java](DataStructures/Subarray/src/Solution.java) |
