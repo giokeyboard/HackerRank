@@ -31,3 +31,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Implementation | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| 10 |[Java](Implementation/DrawingBook/src/Solution.java) |
 | Implementation | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| 15 |[Java](Implementation/CountingValleys/src/Solution.java) |
 | Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| 15 |[Java](Implementation/ElectronicsShop/src/Solution.java) |
+| Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| 15 |[Java](Implementation/CatsAndAMouse/src/Solution.java) |
+| Implementation | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| 20 |[Java](Implementation/PickingNumbers/src/Solution.java) |
