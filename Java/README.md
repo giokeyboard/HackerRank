@@ -1,4 +1,5 @@
 # Java language proficiency
+All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/technologies/javase-jdk11-downloads.html) - unless stated otherwise.
 ## List of Subdomains
 - [Introdution](Introduction)
 - [Strings](Strings)
