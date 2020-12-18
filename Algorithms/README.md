@@ -33,3 +33,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Implementation | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| 15 |[Java](Implementation/ElectronicsShop/src/Solution.java) |
 | Implementation | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| 15 |[Java](Implementation/CatsAndAMouse/src/Solution.java) |
 | Implementation | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| 20 |[Java](Implementation/PickingNumbers/src/Solution.java) |
+| Implementation | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| 15 |[Java](Implementation/TheHurdleRace/src/Solution.java) |
+| Implementation | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| 20 |[Java](Implementation/DesignerPDFViewer/src/Solution.java) |

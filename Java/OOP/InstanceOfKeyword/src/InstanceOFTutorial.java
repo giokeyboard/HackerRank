@@ -39,5 +39,7 @@ public class InstanceOFTutorial {
             if (s.equals("Hacker")) mylist.add(new Hacker());
         }
         System.out.println(count(mylist));
+        
+        sc.close();
     }
 }

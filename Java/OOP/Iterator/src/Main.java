@@ -32,5 +32,7 @@ public class Main {
             Object element = it.next();
             System.out.println((String) element);
         }
+
+        sc.close();
     }
 }
