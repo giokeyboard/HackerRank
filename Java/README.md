@@ -53,5 +53,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Data Structures | [Sort](https://www.hackerrank.com/challenges/java-sort)| 10 |[Java](DataStructures/Sort/src/Solution.java) |
 | Data Structures | [BitSet](https://www.hackerrank.com/challenges/java-bitset)| 20 |[Java](DataStructures/BitSet/src/Solution.java) |
 | Exception Handling | [Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)| 10 |[Java](ExceptionHandling/ExceptionHandlingTryCatch/src/Solution.java) |
-| Exception Handling | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)| 15 |[Java](ExceptionHandling/ExceptionHandlingTryCatch/src/Solution.java) |
-[//]: # | Subdmain | [ExerciseName]()| 15 |[Java]() |
+| Exception Handling | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)| 15 |[Java](ExceptionHandling/ExceptionHandling/src/Solution.java) |
+<!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
