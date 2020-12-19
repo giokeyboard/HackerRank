@@ -9,5 +9,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 03 | [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | 30 | [Java](Day03-ConditionalStatements/src/Solution.java) |
 | 04 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | 30 | [Java](Day04-ClassVsInstance/src/Person.java) |
 | 05 | [Loops](https://www.hackerrank.com/challenges/30-loops) | 30 | [Java](Day05-Loops/src/Solution.java) |
-| 05 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | 30 | [Java](Day06-LetsReview/src/Solution.java) |
-| 05 | [Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [Java](Day06-Arrays/src/Solution.java) |
+| 06 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | 30 | [Java](Day06-LetsReview/src/Solution.java) |
+| 07 | [Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [Java](Day07-Arrays/src/Solution.java) |
