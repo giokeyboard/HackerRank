@@ -6,7 +6,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 - [BigNumber](BigNumber)
 - [Object Oriented Programming](OOP)
 - [Data Structures](DataStructures)
-- [Exception Handling]()
+- [Exception Handling](ExceptionHandling)
 - [Advanced]()
 
 ## List of Exercises
