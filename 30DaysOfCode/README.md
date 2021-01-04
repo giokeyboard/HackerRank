@@ -12,5 +12,6 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 06 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | 30 | [Java](Day06-LetsReview/src/Solution.java) |
 | 07 | [Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [Java](Day07-Arrays/src/Solution.java) |
 | 08 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | 30 | [Java](Day08-DictionariesAndMaps/src/Solution.java) |
-
+| 09 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | 30 | [Java](Day09-Recursion3/src/Solution.java) |
+| 10 | [name]() | 30 | [Java]() |
 <!-- | day | [name]() | 30 | [Java]() | -->
