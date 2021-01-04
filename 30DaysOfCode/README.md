@@ -13,5 +13,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 07 | [Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [Java](Day07-Arrays/src/Solution.java) |
 | 08 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | 30 | [Java](Day08-DictionariesAndMaps/src/Solution.java) |
 | 09 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | 30 | [Java](Day09-Recursion3/src/Solution.java) |
-| 10 | [name]() | 30 | [Java]() |
+| 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | 30 | [Java](Day10-BinaryNumbers/src/Solution.java) |
 <!-- | day | [name]() | 30 | [Java]() | -->
