@@ -16,7 +16,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | 30 | [Java](Day10-BinaryNumbers/src/Solution.java) |
 | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | 30 | [Java](Day11-2DArrays/src/Solution.java) |
 | 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [Java](Day12-Inheritance/src) |
-| 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [Java]() |
+| 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [Java](Day13-Abstract Classes/src/Solution.java) |
 | 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [Java]() |
 | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list) | 30 | [Java]() |
 | 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | 30 | [Java]() |
