@@ -19,7 +19,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [Java](Day13-AbstractClasses/src/Solution.java) |
 | 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [Java](Day14-Scope/src/Solution.java) |
 | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list) | 30 | [Java](Day15-LinkedList/src/Solution.java) |
-| 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | 30 | [Java]() |
+| 16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | 30 | [Java](Day16-Exceptions-StringToInteger/src/Solution.java) |
 | 17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | 30 | [Java]() |
 | 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | 30 | [Java]() |
 | 19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | 30 | [Java]() |
