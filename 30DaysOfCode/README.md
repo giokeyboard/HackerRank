@@ -15,7 +15,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 09 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | 30 | [Java](Day09-Recursion3/src/Solution.java) |
 | 10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | 30 | [Java](Day10-BinaryNumbers/src/Solution.java) |
 | 11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | 30 | [Java](Day11-2DArrays/src/Solution.java) |
-| 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [Java]() |
+| 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [Java](Day12-Inheritance/src) |
 | 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [Java]() |
 | 14 | [Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [Java]() |
 | 15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list) | 30 | [Java]() |
@@ -27,7 +27,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 21 | [Generics](https://www.hackerrank.com/challenges/30-generics) | 30 | [Java]() |
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | 30 | [Java]() |
 | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | 30 | [Java]() |
-<!-- | 24 | [name]() | 30 | [Java]() | -->
+| 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | 30 | [Java]() |
 <!-- | 25 | [name]() | 30 | [Java]() | -->
 <!-- | 26 | [name]() | 30 | [Java]() | -->
 <!-- | 27 | [name]() | 30 | [Java]() | -->
