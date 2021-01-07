@@ -24,7 +24,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | 30 | [Java](Day18-QueuesAndStacks/src/Solution.java) |
 | 19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | 30 | [Java](Day19-Interfaces/src/Solution.java) |
 | 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting) | 30 | [Java](Day20-Sorting/src/Solution.java) |
-| 21 | [Generics](https://www.hackerrank.com/challenges/30-generics) | 30 | [Java]() |
+| 21 | [Generics](https://www.hackerrank.com/challenges/30-generics) | 30 | [Java](Day21-Generics/src/Generics.java) |
 | 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | 30 | [Java]() |
 | 23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | 30 | [Java]() |
 | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | 30 | [Java]() |
