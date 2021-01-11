@@ -30,7 +30,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | 30 | [Java](Day24-MoreLinkedLists/src/Solution.java) |
 | 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | 30 | [Java](Day25-RunningTimeAndComplexity/src/Solution.java) |
 | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | 30 | [Java](Day26-NestedLogic/src/Solution.java) |
-| 27 | [Testing](https://www.hackerrank.com/challenges/30-testing) | 30 | [Java]() |
+| 27 | [Testing](https://www.hackerrank.com/challenges/30-testing) | 30 | [Java](Day27-Testing/src/Solution.java) |
 | 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) | 30 | [Java]() |
 | 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) | 30 | [Java]() |
 <!-- | day | [name]() | 30 | [Java]() | -->
