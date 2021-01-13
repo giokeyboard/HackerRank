@@ -32,5 +32,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | 30 | [Java](Day26-NestedLogic/src/Solution.java) |
 | 27 | [Testing](https://www.hackerrank.com/challenges/30-testing) | 30 | [Java](Day27-Testing/src/Solution.java) |
 | 28 | [RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) | 30 | [Java](Day28-RegExPatterns/src/Solution.java) |
-| 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) | 30 | [Java]() |
+| 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) | 30 | [Java](Day29-BitwiseAND/src/Solution.java) |
 <!-- | day | [name]() | 30 | [Java]() | -->
