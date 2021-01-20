@@ -55,4 +55,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Exception Handling | [Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)| 10 |[Java](ExceptionHandling/ExceptionHandlingTryCatch/src/Solution.java) |
 | Exception Handling | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)| 15 |[Java](ExceptionHandling/ExceptionHandling/src/Solution.java) |
 | Advanced | [Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)| 15 |[Java](Advanced/Varargs-SimpleAddition/src/Solution.java) |
+| Advanced | [Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/)| 15 |[Java](Advanced/Reflection-Attributes/src/Solution.java) |
 <!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
