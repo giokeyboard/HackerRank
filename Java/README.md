@@ -59,5 +59,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Advanced | [Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/)| 15 |[Java](Advanced/Reflection-Attributes/src/Solution.java) |
 | Advanced | [Factory Pattern](https://www.hackerrank.com/challenges/java-factory)| 15 |[Java](Advanced/FactoryPattern/src/Solution.java) |
 | Advanced | [Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)| 15 |[Java](Advanced/SingletonPattern/src/Singleton.java) |
-| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)| 20 |[Java]() |
+| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)| 20 |[Java](Advanced/CovariantReturnTypes/src/Solution.java) |
 <!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
