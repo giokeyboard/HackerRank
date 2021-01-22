@@ -32,6 +32,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Strings | [Anagrams](https://www.hackerrank.com/challenges/java-anagrams)| 10 |[Java](Strings/Anagrams/src/Solution.java) |
 | Strings | [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)| 15 |[Java](Strings/StringTokens/src/Solution.java) |
 | Strings | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker)| 20 |[Java](Strings/UsernameRegularExpression/src/Solution.java) |
+| Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)| 20 |[Java](Strings/PatternSyntaxChecker/src/Solution.java) |
 | BigNumber | [Big Integer](https://www.hackerrank.com/challenges/java-biginteger)| 10 |[Java](BigNumber/BigInteger/src/Solution.java) |
 | BigNumber | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test)| 20 |[Java](BigNumber/PrimalityTest/src/Solution.java) |
 | Object Oriented Programming | [InheritanceI](https://www.hackerrank.com/challenges/java-inheritance-1)| 5 |[Java](OOP/InheritanceI/src/Solution.java) |
@@ -58,4 +59,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Advanced | [Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/)| 15 |[Java](Advanced/Reflection-Attributes/src/Solution.java) |
 | Advanced | [Factory Pattern](https://www.hackerrank.com/challenges/java-factory)| 15 |[Java](Advanced/FactoryPattern/src/Solution.java) |
 | Advanced | [Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)| 15 |[Java](Advanced/SingletonPattern/src/Singleton.java) |
+| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)| 20 |[Java]() |
 <!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
