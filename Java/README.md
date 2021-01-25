@@ -35,6 +35,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)| 20 |[Java](Strings/PatternSyntaxChecker/src/Solution.java) |
 | Strings | [Regex](https://www.hackerrank.com/challenges/java-regex)| 25 |[Java](Strings/Regex/src/Solution.java) |
 | Strings | [Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word)| 25 |[Java](Strings/Regex2-DuplicateWords/src/DuplicateWords.java) |
+| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)| 20 |[Java](Strings/TagContentExtractor/src/Solution.java) |
 | BigNumber | [Big Integer](https://www.hackerrank.com/challenges/java-biginteger)| 10 |[Java](BigNumber/BigInteger/src/Solution.java) |
 | BigNumber | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test)| 20 |[Java](BigNumber/PrimalityTest/src/Solution.java) |
 | Object Oriented Programming | [InheritanceI](https://www.hackerrank.com/challenges/java-inheritance-1)| 5 |[Java](OOP/InheritanceI/src/Solution.java) |
