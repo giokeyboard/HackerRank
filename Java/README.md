@@ -38,6 +38,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)| 20 |[Java](Strings/TagContentExtractor/src/Solution.java) |
 | BigNumber | [Big Integer](https://www.hackerrank.com/challenges/java-biginteger)| 10 |[Java](BigNumber/BigInteger/src/Solution.java) |
 | BigNumber | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test)| 20 |[Java](BigNumber/PrimalityTest/src/Solution.java) |
+| BigNumber | [BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)| 20 |[Java](BigNumber/BigDecimal/src/Solution.java) |
 | Object Oriented Programming | [InheritanceI](https://www.hackerrank.com/challenges/java-inheritance-1)| 5 |[Java](OOP/InheritanceI/src/Solution.java) |
 | Object Oriented Programming | [InheritanceII](https://www.hackerrank.com/challenges/java-inheritance-2)| 10 |[Java](OOP/InheritanceII/src/Solution.java) |
 | Object Oriented Programming | [Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class)| 10 |[Java](OOP/AbstractClass/src/Main.java) |
