@@ -58,6 +58,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Data Structures | [Sort](https://www.hackerrank.com/challenges/java-sort)| 10 |[Java](DataStructures/Sort/src/Solution.java) |
 | Data Structures | [BitSet](https://www.hackerrank.com/challenges/java-bitset)| 20 |[Java](DataStructures/BitSet/src/Solution.java) |
 | Data Structures | [1D Array (part 2)](https://www.hackerrank.com/challenges/java-1d-array)| 25 |[Java](DataStructures/1DArray-Part2/src/Solution.java) |
+| Data Structures | [Stack](https://www.hackerrank.com/challenges/java-stack)| 20 |[Java](DataStructures/Stack/src/Solution.java) |
 | Exception Handling | [Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)| 10 |[Java](ExceptionHandling/ExceptionHandlingTryCatch/src/Solution.java) |
 | Exception Handling | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)| 15 |[Java](ExceptionHandling/ExceptionHandling/src/Solution.java) |
 | Advanced | [Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)| 15 |[Java](Advanced/Varargs-SimpleAddition/src/Solution.java) |
