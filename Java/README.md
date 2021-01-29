@@ -33,9 +33,9 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Strings | [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)| 15 |[Java](Strings/StringTokens/src/Solution.java) |
 | Strings | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker)| 20 |[Java](Strings/UsernameRegularExpression/src/Solution.java) |
 | Strings | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)| 20 |[Java](Strings/PatternSyntaxChecker/src/Solution.java) |
+| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)| 20 |[Java](Strings/TagContentExtractor/src/Solution.java) |
 | Strings | [Regex](https://www.hackerrank.com/challenges/java-regex)| 25 |[Java](Strings/Regex/src/Solution.java) |
 | Strings | [Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word)| 25 |[Java](Strings/Regex2-DuplicateWords/src/DuplicateWords.java) |
-| Strings | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)| 20 |[Java](Strings/TagContentExtractor/src/Solution.java) |
 | BigNumber | [Big Integer](https://www.hackerrank.com/challenges/java-biginteger)| 10 |[Java](BigNumber/BigInteger/src/Solution.java) |
 | BigNumber | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test)| 20 |[Java](BigNumber/PrimalityTest/src/Solution.java) |
 | BigNumber | [BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)| 20 |[Java](BigNumber/BigDecimal/src/Solution.java) |
@@ -51,14 +51,15 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Data Structures | [2D Array](https://www.hackerrank.com/challenges/java-2d-array)| 10 |[Java](DataStructures/2DArray/src/Solution.java) |
 | Data Structures | [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray)| 10 |[Java](DataStructures/Subarray/src/Solution.java) |
 | Data Structures | [ArrayList](https://www.hackerrank.com/challenges/java-arraylist)| 10 |[Java](DataStructures/Arraylist/src/Solution.java) |
-| Data Structures | [List](https://www.hackerrank.com/challenges/java-list)| 15 |[Java](DataStructures/List/src/Solution.java) |
 | Data Structures | [Map](https://www.hackerrank.com/challenges/phone-book)| 10 |[Java](DataStructures/Map/src/Solution.java) |
 | Data Structures | [HashSet](https://www.hackerrank.com/challenges/java-hashset)| 10 |[Java](DataStructures/Hashset/src/Solution.java) |
-| Data Structures | [Generics](https://www.hackerrank.com/challenges/java-generics)| 15 |[Java](DataStructures/Generics/src/Solution.java) |
 | Data Structures | [Sort](https://www.hackerrank.com/challenges/java-sort)| 10 |[Java](DataStructures/Sort/src/Solution.java) |
+| Data Structures | [Comparator](https://www.hackerrank.com/challenges/java-comparator/)| 10 |[Java](DataStructures/Comparator/src/Solution.java) |
+| Data Structures | [Generics](https://www.hackerrank.com/challenges/java-generics)| 15 |[Java](DataStructures/Generics/src/Solution.java) |
+| Data Structures | [List](https://www.hackerrank.com/challenges/java-list)| 15 |[Java](DataStructures/List/src/Solution.java) |
 | Data Structures | [BitSet](https://www.hackerrank.com/challenges/java-bitset)| 20 |[Java](DataStructures/BitSet/src/Solution.java) |
-| Data Structures | [1D Array (part 2)](https://www.hackerrank.com/challenges/java-1d-array)| 25 |[Java](DataStructures/1DArray-Part2/src/Solution.java) |
 | Data Structures | [Stack](https://www.hackerrank.com/challenges/java-stack)| 20 |[Java](DataStructures/Stack/src/Solution.java) |
+| Data Structures | [1D Array (part 2)](https://www.hackerrank.com/challenges/java-1d-array)| 25 |[Java](DataStructures/1DArray-Part2/src/Solution.java) |
 | Exception Handling | [Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)| 10 |[Java](ExceptionHandling/ExceptionHandlingTryCatch/src/Solution.java) |
 | Exception Handling | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)| 15 |[Java](ExceptionHandling/ExceptionHandling/src/Solution.java) |
 | Advanced | [Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)| 15 |[Java](Advanced/Varargs-SimpleAddition/src/Solution.java) |
