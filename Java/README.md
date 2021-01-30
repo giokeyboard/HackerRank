@@ -59,6 +59,7 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Data Structures | [List](https://www.hackerrank.com/challenges/java-list)| 15 |[Java](DataStructures/List/src/Solution.java) |
 | Data Structures | [BitSet](https://www.hackerrank.com/challenges/java-bitset)| 20 |[Java](DataStructures/BitSet/src/Solution.java) |
 | Data Structures | [Stack](https://www.hackerrank.com/challenges/java-stack)| 20 |[Java](DataStructures/Stack/src/Solution.java) |
+| Data Structures | [Dequeue](https://www.hackerrank.com/challenges/java-dequeue)| 20 |[Java](DataStructures/Dequeue/src/Solution.java) |
 | Data Structures | [1D Array (part 2)](https://www.hackerrank.com/challenges/java-1d-array)| 25 |[Java](DataStructures/1DArray-Part2/src/Solution.java) |
 | Exception Handling | [Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)| 10 |[Java](ExceptionHandling/ExceptionHandlingTryCatch/src/Solution.java) |
 | Exception Handling | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)| 15 |[Java](ExceptionHandling/ExceptionHandling/src/Solution.java) |
