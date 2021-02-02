@@ -71,4 +71,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Advanced | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access)| 15 |[Java](Advanced/CanYouAccess/src/Solution.java) |
 | Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)| 20 |[Java](Advanced/CovariantReturnTypes/src/Solution.java) |
 | Advanced | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker)| 25 |[Java](Advanced/PrimeChecker/src/Solution.java) |
+| Advanced | [Annotations](https://www.hackerrank.com/challenges/java-annotations)| 25 |[Java](Advanced/Annotations/src/Solution.java) |
 <!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
