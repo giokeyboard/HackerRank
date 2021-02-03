@@ -72,4 +72,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)| 20 |[Java](Advanced/CovariantReturnTypes/src/Solution.java) |
 | Advanced | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker)| 25 |[Java](Advanced/PrimeChecker/src/Solution.java) |
 | Advanced | [Annotations](https://www.hackerrank.com/challenges/java-annotations)| 25 |[Java](Advanced/Annotations/src/Solution.java) |
+| Advanced | [Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)| 30 |[Java](Advanced/LambdaExpressions/src/Solution.java) |
 <!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
