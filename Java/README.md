@@ -73,4 +73,5 @@ All the exercises are solved using [Java 11](https://www.oracle.com/ie/java/tech
 | Advanced | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker)| 25 |[Java](Advanced/PrimeChecker/src/Solution.java) |
 | Advanced | [Annotations](https://www.hackerrank.com/challenges/java-annotations)| 25 |[Java](Advanced/Annotations/src/Solution.java) |
 | Advanced | [Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)| 30 |[Java](Advanced/LambdaExpressions/src/Solution.java) |
+| Advanced | [MD5](https://www.hackerrank.com/challenges/java-md5)| 30 |[Java](Advanced/MD5/src/Solution.java) |
 <!-- | Subdmain | [ExerciseName]()| 15 |[Java]() | -->
