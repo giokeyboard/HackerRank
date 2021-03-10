@@ -5,4 +5,5 @@
 ## Table of Contents
 * [Algorithms](/Algorithms)
 * [Java](/Java)
+* [C](/C)
 * [30 Days of Code](/30DaysOfCode)
