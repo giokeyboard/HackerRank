@@ -12,5 +12,6 @@
 |---|---|:---:|:---:|
 | Introduction | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/)| 5 |[C](Introduction/hello-world-c.c) |
 | Introduction | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/)| 5 |[C](Introduction/playing-with-characters.c) |
+| Introduction | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/)| 5 |[C](Introduction/sum-diff-two-numbers.c) |
 
 <!-- | Subdmain | [ExerciseName]()| 10 |[C]() | -->
