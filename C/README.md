@@ -16,5 +16,6 @@
 | Introduction | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/)| 10 |[C](Introduction/functions.c) |
 | Introduction | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/)| 10 |[C](Introduction/pointers.c) |
 | Conditionals And Loops | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/)| 10 |[C](ConditionalsAndLoops/conditionals.c) |
+| Conditionals And Loops | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)| 10 |[C](ConditionalsAndLoops/for-loop.c) |
 
 <!-- | Subdmain | [ExerciseName]()| 10 |[C]() | -->
