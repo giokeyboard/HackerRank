@@ -15,5 +15,6 @@
 | Introduction | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/)| 5 |[C](Introduction/sum-diff-two-numbers.c) |
 | Introduction | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/)| 10 |[C](Introduction/functions.c) |
 | Introduction | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/)| 10 |[C](Introduction/pointers.c) |
+| Conditionals And Loops | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/)| 10 |[C](ConditionalsAndLoops/conditionals.c) |
 
 <!-- | Subdmain | [ExerciseName]()| 10 |[C]() | -->
