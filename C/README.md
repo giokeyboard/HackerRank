@@ -14,5 +14,6 @@
 | Introduction | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/)| 5 |[C](Introduction/playing-with-characters.c) |
 | Introduction | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/)| 5 |[C](Introduction/sum-diff-two-numbers.c) |
 | Introduction | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/)| 10 |[C](Introduction/functions.c) |
+| Introduction | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/)| 10 |[C](Introduction/pointers.c) |
 
 <!-- | Subdmain | [ExerciseName]()| 10 |[C]() | -->
