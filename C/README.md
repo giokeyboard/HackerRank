@@ -20,5 +20,8 @@
 | Conditionals And Loops | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/)| 15 |[C](ConditionalsAndLoops/five_digit_number.c) |
 | Conditionals And Loops | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/)| 15 |[C](ConditionalsAndLoops/bitwise_operators.c) |
 | Conditionals And Loops | [Printing Pattern Using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/)| 30 |[C](ConditionalsAndLoops/patterns.c) |
+| Arrays and Strings | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c/)| 10 |[C](ArraysAndStrings/1d_arrays.c) |
+| Arrays and Strings | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c/)| 20 |[C](ArraysAndStrings/array_reversal.c) |
+| Arrays and Strings | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-/)| 20 |[C](ArraysAndStrings/print_tokens.c) |
 
 <!-- | Subdmain | [ExerciseName]()| 10 |[C]() | -->

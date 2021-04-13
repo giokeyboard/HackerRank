@@ -15,7 +15,7 @@ int main(void)
         for (j = 0; j < len; j++)
         {
             dist = (i < j) ? i : j;
-            dist = (dist < len - i) ? dist : len - i - 1;
+            dist = (dist < len - i - 1) ? dist : len - i - 1;
             dist = (dist < len - j - 1) ? dist : len - j - 1;
             printf("%d ", n - dist);
         }
